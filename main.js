@@ -18,13 +18,13 @@ function createWindow () {
     transparent: true,
     title: "EMLGaming",
     darkTheme: true,
-    icon: path.join('img/64x64.png')
+    icon: path.join('src/img/64x64.png')
    })
   // removes the default menu.
   win.setMenu(null);
   // and load the index.html of the app.
   win.loadURL(url.format({
-    pathname: path.join(__dirname, 'src/index.html'),
+    pathname: path.join(__dirname, 'src/html/index.html'),
     protocol: 'file:',
     slashes: true
   }))

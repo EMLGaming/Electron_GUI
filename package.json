@@ -1,7 +1,7 @@
 {
-  "name": "first_electron",
+  "name": "Simple_GUI",
   "version": "0.0.1",
-  "description": "This is my first electron program",
+  "description": "This is my first electron GUI",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
