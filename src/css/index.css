@@ -24,8 +24,8 @@ h1 {
 
 span, span:after {
   font-weight: 900;
-  color: #efedce;
-  /*#365b3a*/
+  color: #bfffe1;
+  /*#365b3a #efedce*/
   white-space: nowrap;
   display: inline-block;
   position: relative;
@@ -36,7 +36,8 @@ span, span:after {
 span {
   font-size: 4em;
   z-index: 100;
-  text-shadow: .04em .04em 0 #9cb8b3;
+  text-shadow: .04em .04em 0 #0cffca;
+  /*#9cb8b3*/
 }
 
 span:after {
@@ -78,7 +79,7 @@ a.animated-button:link, a.animated-button:visited {
   display: block;
   margin: 120% auto 0;
   padding: 14px 15px;
-  color: #00ff37;
+  color: #ff0000;
   font-size: 14px;
   border-radius: 0;
   font-weight: bold;
