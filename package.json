@@ -10,6 +10,6 @@
   "author": "EMLGaming",
   "license": "ISC",
   "devDependencies": {
-    "electron": "1.7.10"
+    "electron": "1.8.2"
   }
 }
